@@ -33,7 +33,7 @@ public class infbutt implements ActionListener {
 		 
 		INFO.add(name);
 		 
-		JLabel f1 = new JLabel("Фатхиев.Д.А");
+		JLabel f1 = new JLabel("Фатхиев.Д.А-15.04.2022");
 		 
 		f1.setBounds(20,30,200,30);
 		 
